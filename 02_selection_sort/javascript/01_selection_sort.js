@@ -40,7 +40,7 @@ function selectionSort(array) {
 }
 
 const sourceArray = [5, 3, 6, 2, 10];
-const sourtedArray = selectionSort(sourceArray);
+const sortedArray = selectionSort(sourceArray);
 
 console.log("Source array - ", sourceArray); // [5, 3, 6, 2, 10]
-console.log("New sorted array - ", sourtedArray); // [2, 3, 5, 6, 10]
+console.log("New sorted array - ", sortedArray); // [2, 3, 5, 6, 10]
